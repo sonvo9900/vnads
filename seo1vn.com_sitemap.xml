@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+   <ShortName>Google</ShortName>
+   <Tags>Google</Tags>
+   <Description>Google Search</Description>
+   <InputEncoding>UTF-8</InputEncoding>
+   <SyndicationRight>limited</SyndicationRight>
+   <Image width="16" height="16" type="image/x-icon">http://www.google.com/favicon.ico</Image>
+   <Url type="text/html" template="http://www.google.com/search?q={seo1vn.com - [Quảng Cáo ;Seo Website;SEO WEBSITE TỔNG THỂ ; CÁC CÁCH SEO WEBSITE;SEO WEBSITE]}"/>
+</OpenSearchDescription>
